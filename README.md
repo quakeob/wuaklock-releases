@@ -6,7 +6,7 @@ This repository only hosts the downloads. The source code is not published here.
 
 ## Download and install
 
-1. Open the [latest release](https://github.com/quakeob/wuaklock-releases/releases/latest) and download the `Wuaklock-…-win-x64.zip` file.
+1. **[Download Wuaklock for Windows](https://github.com/quakeob/wuaklock-releases/releases/latest/download/Wuaklock-win-x64.zip)**. This one link always gets the newest version.
 2. Unzip it anywhere and run `Wuaklock.exe`.
 3. In Wuaklock, go to **Settings → Install on this PC**. It moves itself to `%LOCALAPPDATA%\Wuaklock` and adds Start menu and desktop shortcuts.
 4. Play Deadlock in **borderless** or **windowed** mode so the overlay can show.
