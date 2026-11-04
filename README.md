@@ -19,10 +19,8 @@ Installed copies update themselves. Wuaklock checks this repository a few times 
 
 ## Is it safe?
 
-Read this before you install.
-
+- **It reads. It never touches.** Like other Deadlock companion apps that show live match data, Wuaklock reads the game while you play: your hero, items, souls and the lobby. It only reads. It never injects code, changes game files or sends input, and it reads directly rather than through a platform like Overwolf. As with any third-party tracker, nobody can promise how anti-cheat will treat it, so we won't pretend otherwise.
 - **Unofficial.** Wuaklock is not made, endorsed or supported by Valve.
-- **It reads the game's memory while you play.** Live features (your hero, items, souls, the lobby) come from reading Deadlock's memory. It only reads: it never writes to the game, injects code or sends input. Even so, **anti-cheat systems can treat any tool that reads game memory as suspicious, and there is no guarantee your account is safe.** Use it at your own risk.
 - **Public data.** Scouting, profiles, builds and grades use public match data from [deadlock-api.com](https://deadlock-api.com). Scouting is off until you allow it; when allowed, the Steam account IDs of the players in your match are sent there to look up their public records. Your screen, chat and files are never sent.
 - **Discord** status is off unless you turn it on.
 
